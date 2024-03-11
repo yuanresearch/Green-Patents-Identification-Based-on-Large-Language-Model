@@ -1,1 +1,1 @@
-This is the project files for the research project: Green-Patents-Identification-using-Machine-learning-Evidence-from-the-US-patents
+This is the project files for the research project: Green-Patents-Identification-Based-on-Large-Language-Model-Evidence-from-the-US-patents by Xuan Tian, Yuanchen Yang, Yuan Sun, 2024.
