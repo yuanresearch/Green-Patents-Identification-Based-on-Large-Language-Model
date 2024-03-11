@@ -1,0 +1,1 @@
+This is the project files for the research project: Green-Patents-Identification-using-Machine-learning-Evidence-from-the-US-patents
